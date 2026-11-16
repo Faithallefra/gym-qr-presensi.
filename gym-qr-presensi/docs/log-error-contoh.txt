@@ -1,0 +1,8 @@
+Contoh log dari pipeline saat bug sengaja dibuat (hasil uji lokal):
+
+not ok 6 - member masih Active pada hari terakhir membership
+    + actual - expected
+  expected: 'Active'
+  actual: 'Expired'
+# pass 12
+# fail 1
